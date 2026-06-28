@@ -3,9 +3,9 @@
 A sleek, dark **SaaS landing page** for a fictional project-management tool, built as a
 portfolio piece to show modern product-marketing UI and attention to detail.
 
-🔗 **[Live demo →](https://flowdesk-9rpinymg8-hazard-team.vercel.app)**
+🔗 **[Live demo →](https://flowdesk-liard.vercel.app)**
 
-![FlowDesk preview](https://image.thum.io/get/width/1200/https://flowdesk-9rpinymg8-hazard-team.vercel.app)
+![FlowDesk preview](https://image.thum.io/get/width/1200/https://flowdesk-liard.vercel.app)
 
 ## The brief
 A SaaS startup needs a landing page that looks like a real, premium product (think
